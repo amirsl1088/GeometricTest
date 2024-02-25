@@ -1,0 +1,12 @@
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\bin\Debug\net7.0\GeometricShapes.deps.json
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\bin\Debug\net7.0\GeometricShapes.dll
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\bin\Debug\net7.0\GeometricShapes.pdb
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.dll
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\refint\GeometricShapes.dll
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\GeometricShapes.pdb
+C:\Users\StockRayaneGostar\source\repos\Solution3\GeometricShapes\obj\Debug\net7.0\ref\GeometricShapes.dll
